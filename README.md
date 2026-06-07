@@ -34,8 +34,8 @@ O sistema permite:
 
  1. Clone o repositório**
 ```bash
-git clone https://github.com/seu-usuario/controle-epis-consdon.git
-cd controle-epis-consdon
+git clone https://github.com/seu-usuario/controle-epis.git
+cd controle-epis
 ```
 
  2. Configure o arquivo de ambiente**
