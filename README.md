@@ -90,7 +90,7 @@ APP_LOCALE=pt-BR
  	 Estrutura do projeto
 
 ```
-controle-epis-consdon/
+controle-epis/
 ¹ docker-compose.yml   # configuração dos containers
 ² .env.example         # modelo de variáveis de ambiente
 ³ README.md
